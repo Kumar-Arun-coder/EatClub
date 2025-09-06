@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">EatClub</string>
+    <string name="default_web_client_id" translatable="false">974683428867-jar7876u26e77u1g12rf3lbgr0m9bcc3.apps.googleusercontent.com</string>
+
+    <!-- For RegisterActivity title -->
+    <string name="title_activity_register_email_password">Create New Account</string>
+    <string name="title_activity_register_complete_profile">Complete Your Profile</string>
+    <string name="save_profile_button_text">Save Profile</string>
+    <string name="register_button_text">Register</string>
+
+
+</resources>

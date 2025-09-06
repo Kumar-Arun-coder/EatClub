@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/nav_menu"
+        android:icon="@drawable/ic_menu_bottom"
+        android:title="Menu" />
+    <item
+        android:id="@+id/nav_orders"
+        android:icon="@drawable/ic_orders_bottom"
+        android:title="Orders" />
+    <item
+        android:id="@+id/nav_tables"
+        android:icon="@drawable/ic_tables_bottom"
+        android:title="Tables"/>
+    <item
+        android:id="@+id/nav_reservations"
+        android:icon="@drawable/ic_reservations_bottom"
+        android:title="Reservations"/>
+    <item
+        android:id="@+id/nav_staff"
+        android:icon="@drawable/ic_staff_bottom"
+        android:title="Staff" />
+</menu>
